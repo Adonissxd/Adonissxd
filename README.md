@@ -18,8 +18,8 @@
 </br>
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
-   <img src="https://github-readme-stats.vercel.app/api?username=Adonis&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adonis&layout=compact&theme=dark&hide_border=true" />
+   <img src="https://github-readme-stats.vercel.app/api?username=Adonissxd&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adonissxd&layout=compact&theme=dark&hide_border=true" />
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/153930618005094400?animated=true&borderRadius=7px&theme=dark)](https://discord.com/users/153930618005094400)
 [![Discord Presence](https://lanyard.cnrad.dev/api/395578294487220235?animated=true&borderRadius=7px&theme=dark)](https://discord.com/users/395578294487220235)
@@ -27,6 +27,6 @@
   <h1 align="center">Github İstatistiğim</h1>
 <p align="center">
   <a href="https://github.com/Adonissxd/" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adonissxd&langs_count=10&custom_title=En+Çok+Kullanılan+Diller+Top10&bg_color=171a1f&text_color=fff&icon_color=ff0000&hide_border=true&title_color=ff0000"/></a>
-  <a href="https://github.com/Adonissxd/" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=Adonissxd&show_icons=true&locale=tr&border_radius=10px&title_color=ff0000&hide_border=true&bg_color=171a1f&text_color=fff&icon_color=ff0000&custom_title=Adonissxd%27nin+Github+İstatistiği"/></a>
+  <a href="https://github.com/Adonissxd/" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=Adonis&show_icons=true&locale=tr&border_radius=10px&title_color=ff0000&hide_border=true&bg_color=171a1f&text_color=fff&icon_color=ff0000&custom_title=Adonis%27nin+Github+İstatistiği"/></a>
     <br>
-  <a href="https://github.com/Adonissxd/" target="_blank"><img src="https://gpvc.arturio.dev/Adonissxd" alt="Adonissxd"/></a>
+  <a href="https://github.com/Adonissxd/" target="_blank"><img src="https://gpvc.arturio.dev/Adonis" alt="Adonis"/></a>
