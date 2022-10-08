@@ -1,12 +1,6 @@
 <h1 align="center">Herkese Merhaba, Ben Adonis <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 <p align="center">2018 Yılından Beri Discord Platformunda (JavaScript) Temelli Bot Geliştiriyorum.<br></p>
 
-
-
-
-
-
-
 ## Langauges I Know:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
