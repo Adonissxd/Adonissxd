@@ -21,8 +21,7 @@
    <img src="https://github-readme-stats.vercel.app/api?username=Adonissxd&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adonissxd&layout=compact&theme=dark&hide_border=true" />
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/153930618005094400?animated=true&borderRadius=7px&theme=dark)](https://discord.com/users/153930618005094400)
-[![Discord Presence](https://lanyard.cnrad.dev/api/395578294487220235?animated=true&borderRadius=7px&theme=dark)](https://discord.com/users/395578294487220235)
+
 </p>
   <h1 align="center">Github İstatistiğim</h1>
 <p align="center">
