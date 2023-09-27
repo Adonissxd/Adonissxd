@@ -22,7 +22,7 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adonissxd&layout=compact&theme=dark&hide_border=true" />
 
 
-</p>
+
   <h1 align="center">Github İstatistiğim</h1>
 <p align="center">
   <a href="https://github.com/Adonissxd/" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adonissxd&langs_count=10&custom_title=En+Çok+Kullanılan+Diller+Top10&bg_color=171a1f&text_color=fff&icon_color=ff0000&hide_border=true&title_color=ff0000"/></a>
