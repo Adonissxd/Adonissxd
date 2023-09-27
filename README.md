@@ -27,5 +27,3 @@
 <p align="center">
   <a href="https://github.com/Adonissxd/" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adonissxd&langs_count=10&custom_title=En+Çok+Kullanılan+Diller+Top10&bg_color=171a1f&text_color=fff&icon_color=ff0000&hide_border=true&title_color=ff0000"/></a>
   <a href="https://github.com/Adonissxd/" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=Adonis&show_icons=true&locale=tr&border_radius=10px&title_color=ff0000&hide_border=true&bg_color=171a1f&text_color=fff&icon_color=ff0000&custom_title=Adonis%27nin+Github+İstatistiği"/></a>
-    <br>
-  <a href="https://github.com/Adonissxd/" target="_blank"><img src="https://gpvc.arturio.dev/Adonis" alt="Adonis"/></a>
